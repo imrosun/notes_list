@@ -44,7 +44,7 @@ lib/
 ### 1. 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/flutter-notes-app.git
+git clone https://github.com/imrosun/notes_list.git
 cd flutter-notes-app
 ```
 
